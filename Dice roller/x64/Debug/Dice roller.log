@@ -1,0 +1,3 @@
+﻿  Dice roller.cpp
+C:\Users\hp\Documents\Projects\c++ projects\Dice roller\Dice roller.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dice roller.vcxproj -> C:\Users\hp\Documents\Projects\c++ projects\Dice roller\x64\Debug\Dice roller.exe
